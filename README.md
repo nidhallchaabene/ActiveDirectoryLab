@@ -21,7 +21,7 @@ This project utilizes Oracle VirtualBox to create a realistic testing environmen
 <img src="https://imgur.com/FqcB1hX.png" height="80%" width="80%" alt="Architecutre"/>
 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walkthrough:</h2>
 
 <p align="center">
 Installing The AD: <br/>
