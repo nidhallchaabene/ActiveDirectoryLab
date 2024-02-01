@@ -15,7 +15,7 @@ This project utilizes Oracle VirtualBox to create a realistic testing environmen
 
 - <b>Windows 10</b> (21H2)
 - <b>Virtual Box</b>
-- <b>Server 2019</b>
+- <b>Windows Server 2019</b>
 
 <h2>Architecture</h2>
 <img src="https://imgur.com/FqcB1hX.png" height="80%" width="80%" alt="Architecutre"/>
